@@ -1,0 +1,14 @@
+package corejava;
+
+public class TryFinally {
+public static void main(String[] args) {
+	
+	try{
+		
+		int x=50/0;
+		System.out.println(x);
+	}finally{
+		
+	}
+}
+}

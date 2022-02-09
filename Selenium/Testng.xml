@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Sample xml file">
+	<test name="Sample test ">
+		<classes>
+			<class name="testng.WebDriverTest" />
+			<class name="testng.BasicProgram" />
+		</classes>
+	</test>
+</suite>
